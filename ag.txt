@@ -1,0 +1,32 @@
+All dependencies to install for agent.ipynb
+
+Run this in Jupyter Notebook:
+
+%pip install -U agno groq langchain langchain-groq langserve uvicorn
+fastapi sse_starlette langgraph llama-index llama-index-llms-groq
+phidata “autogen-agentchat” “autogen-ext[openai]” langsmith requests
+beautifulsoup4 pandas
+
+Package/module list:
+
+1.  agno
+2.  groq
+3.  langchain
+4.  langchain-groq
+5.  langserve
+6.  uvicorn
+7.  fastapi
+8.  sse_starlette
+9.  langgraph
+10. llama-index
+11. llama-index-llms-groq
+12. phidata
+13. autogen-agentchat
+14. autogen-ext[openai]
+15. langsmith
+16. requests
+17. beautifulsoup4
+18. pandas
+
+Python standard-library modules used in the notebook do NOT need
+installation separately (for example: os, json, etc.).
