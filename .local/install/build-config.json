@@ -1,0 +1,6 @@
+{
+  "Version": "1.0",
+  "IncludeWorkflows": [
+    "image_to_CSV.xaml"
+  ]
+}

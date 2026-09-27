@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1iwKl34op0qxvZ4f89TcuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="221, 156, 120, 29" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd aaname='Disk Cleanup' cls='DirectUIHWND' /&gt;&lt;wnd cls='Button' title='Delete Files' /&gt;" Guid="49146054-1cca-4a6a-b927-a9d87001af76" ScopeSelectorArgument="&lt;wnd app='cleanmgr.exe' cls='#32770' title='Disk Cleanup' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b7e5951e14101868943adb2569bb6010.jpg" xmlns="">0E4DBwk-caUarZFNrqPha8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

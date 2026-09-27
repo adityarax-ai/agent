@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search for“apple juice”",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "phi5jrKHVEKNJ1HGWTPuMQ",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/phi5jrKHVEKNJ1HGWTPuMQ",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/h0EvWhaLCE-AabJN23SYGQ",
+  "Created": "2026-09-27T10:38:23.7640624Z",
+  "Updated": "2026-09-27T10:38:23.7640624Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

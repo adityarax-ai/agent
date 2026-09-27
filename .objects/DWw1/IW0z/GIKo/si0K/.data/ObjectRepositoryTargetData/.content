@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_L0UV_oGKE6v6hi-oWvWZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="85, 135, 337, 22" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='12298' /&gt;&lt;wnd ctrlid='1001' /&gt;" Guid="d153966f-48ad-478a-89ba-11565598f8b0" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='#32770' title='Run' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2f5ba762891230c092811c6d6b58e2f4.jpg" xmlns="">0IrghdnOyRUya5AtRMxigjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

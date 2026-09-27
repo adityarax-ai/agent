@@ -1,0 +1,14 @@
+﻿{
+  "Name": "cleanmgr",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lm6HxovaA0uw-zjgBjVVOg",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/lm6HxovaA0uw-zjgBjVVOg",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/Abot32XWG0aSn84sGarlww",
+  "Created": "2026-09-27T11:07:39.1661336Z",
+  "Updated": "2026-09-27T11:07:39.1661336Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

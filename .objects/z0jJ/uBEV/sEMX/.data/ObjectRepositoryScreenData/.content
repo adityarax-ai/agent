@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="toOvZd4260u57LmvRBzc4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="32, 32, 512, 562" FilePath="C:\Windows\System32\cleanmgr.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJiSURBVDhP7dHhTxJhHAfwWy96zR/gC9vaXK+AMeNlbQ1eWC9avmm1NTfdYoEIprgWUwZJoxewWtjaZJmbIXlwHGaBnimGx92ZmhrEMjuISdRL/oFvuzMaIbxw9aIXfbfvq+d+n/2eewjif/5KNhKDF7mYBRzdB542g4+affXfHCnZpN2SSTqwxQxjlbKAjZolXORps8hHe8FHTZRAmboEyqion22a3Iq9a4exOV4Frjz5sDKMLcYOYW4AXKzvYPOotHkvBErCjUfD+Rf9m7kVOz6uupBL3cH26xHws9aaXyJvjdhYJ1U/2zDZRavjDWkAE7yOxZAREr7LjiKzPIKN+BAofyfGbp3GPdMp1M82jLhqc+TZIUjNLd0E86wHLyd7sBC8gW3GhvsDKvRfPgGH6RwKxZKvUCyp6g2iUCwpCsVSV6FYogSBA5+cghB3yWi17xeseDx6Ad3nW2C/dhIPbl+SwGoPrl+pVBSZbJYqlb/XHv6qhAvJKawnRvA5NQiB6pYxj+UMYqFH+LSXx/ZOBizHL1XBsx6PBzqdDk6nE+k0h2b42hoHdnES8/EY3q5vIsVySCwwiM3OIUJFlwmCOCaDXq8XarUaKpUKSqUSer0eTpcLaY7H/tdvyH/Zx+5eHls7mTqERjhCgQxHEJwOzRMEcVwCW2mahtFolLfUarVob2+HRqNB29U2PPT7kWLTSMwfRqTOkOF3wenn/aPuuy3yhj+vrRJF0cdxnDg+Pg6DwYCOjg4o7Uq43e5DCBmObJLhiGWGjLT+9rKNUosHAgFMTDw9OtIsEl4ul/8M+efyA1lVC7f7Qe9HAAAAAElFTkSuQmCC" Selector="&lt;wnd app='cleanmgr.exe' cls='#32770' title='Disk Cleanup for OS (C:)' /&gt;" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="7ef44830a61faa1bf1bf5cf417a5f2ad.jpg" xmlns="">0IOcKUMcwwEqUyYh0qNvLpQ</imageRef>
+    </TargetApp>
+    <NInteractionMode x:Key="InteractionMode">HardwareEvents</NInteractionMode>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

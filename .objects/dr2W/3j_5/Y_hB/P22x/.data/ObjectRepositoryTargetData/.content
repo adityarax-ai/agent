@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lR7TlZdraUCQBb19hPLwTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="astrologyfutureeye.com/zodiac/aquarius-sign" DesignTimeRectangle="173, 590, 1573, 193" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='main' tag='P' /&gt;" Guid="1f5e650a-400b-461c-ba27-4374908dc615" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Aquarius Horoscope Sign | Traits &amp;amp; Personality Predictions' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a6e1af6374c15de62842d4a522ab73fa.jpg" xmlns="">0pFn77tDKfkOdBdv50Gkv6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

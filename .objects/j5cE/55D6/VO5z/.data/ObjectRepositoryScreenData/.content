@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="7eg7FObeAkmfOezBttGirA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB7SURBVDhPY2BgYGD4n8SQ8D+J4dr/JIb/RGKQ2gSQXphmdAXE4gSQAaTYjI6vgQxAFyQJDxYDOh0wJHBikNqNDXA9CANu7IdIoGtAxzDNULWoXgAJggCIhmGYYpgFID6Si7GHAUwDMsbhTewGkIAHhwEUJ2XKMhOl2RkAzSFlvVeNjg0AAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" Url="https://www.amazon.in/" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="808cdd3d1bc228acf3db529604b8e02c.jpg" xmlns="">0fYuXxlRvo0aMUehXbwFwQQ</imageRef>
+    </TargetApp>
+    <NInteractionMode x:Key="InteractionMode">DebuggerApi</NInteractionMode>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Zepto Online Grocery Delivery App - Groceries in Minutes",
+  "Type": "App",
+  "Id": "_KabFsFzIEuCeYly8_N9_A",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/_KabFsFzIEuCeYly8_N9_A",
+  "Created": "2026-09-27T10:37:55.6601319Z",
+  "Updated": "2026-09-27T10:37:55.6601319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "excel_to_google_form.xaml",
+      "uniqueId": "a64f789c-6bc2-4a4b-9dc5-58a3d9674966",
+      "type": "process"
+    }
+  ]
+}

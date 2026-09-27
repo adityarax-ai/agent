@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Online Shopping site in India Shop Onlin",
+  "Type": "Screen",
+  "Id": "VO5zrLwNDUGf_zqHvS8PgQ",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/VO5zrLwNDUGf_zqHvS8PgQ",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/55D6yAnzEkuvNBujxdl3lg",
+  "Created": "2026-09-25T21:38:41.9220467Z",
+  "Updated": "2026-09-25T21:38:41.9220467Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

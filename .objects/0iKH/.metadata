@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Contact information",
+  "Type": "App",
+  "Id": "0iKHhDXdfU215X9ouAP-Yw",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/0iKHhDXdfU215X9ouAP-Yw",
+  "Created": "2026-09-25T21:21:29.6660633Z",
+  "Updated": "2026-09-25T21:21:29.6660633Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

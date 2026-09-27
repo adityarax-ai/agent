@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Go",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "V819iwkvLUyWBCzK0Q0W1Q",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/V819iwkvLUyWBCzK0Q0W1Q",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/h0EvWhaLCE-AabJN23SYGQ",
+  "Created": "2026-09-27T10:45:01.3118078Z",
+  "Updated": "2026-09-27T10:45:01.3118078Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

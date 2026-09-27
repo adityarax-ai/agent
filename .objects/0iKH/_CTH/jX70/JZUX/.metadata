@@ -1,0 +1,13 @@
+﻿{
+  "Name": "building3",
+  "Type": "Element",
+  "Id": "JZUXyRrGd0a7rTWwZnBmcQ",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/JZUXyRrGd0a7rTWwZnBmcQ",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/jX70x2xIDkuxmDT_fbaqCw",
+  "Created": "2026-09-27T10:53:09.0142736Z",
+  "Updated": "2026-09-27T10:53:09.0142736Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

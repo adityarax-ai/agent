@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Zepto Online Grocery Delivery App - Groc",
+  "Type": "Screen",
+  "Id": "h0EvWhaLCE-AabJN23SYGQ",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/h0EvWhaLCE-AabJN23SYGQ",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/D8YO7mXoB0K3Heumc_WNyw",
+  "Created": "2026-09-27T10:37:55.7491778Z",
+  "Updated": "2026-09-27T10:37:55.7491778Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

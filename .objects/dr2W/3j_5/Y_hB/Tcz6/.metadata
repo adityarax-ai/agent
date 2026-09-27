@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The Aquarius is the 11t…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Tcz6cV4n7EqIpj65CDQmnw",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/Tcz6cV4n7EqIpj65CDQmnw",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/Y_hBbvcGjEewVpx_I4L9jQ",
+  "Created": "2026-09-27T09:58:59.0303841Z",
+  "Updated": "2026-09-27T09:58:59.0303841Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

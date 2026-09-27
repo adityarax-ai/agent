@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Disk Cleanup for OS (C)",
+  "Type": "Screen",
+  "Id": "sEMX8_bRRUu6aK10sxU11w",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/sEMX8_bRRUu6aK10sxU11w",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/uBEVsev_r0GihLGEPZ08hg",
+  "Created": "2026-09-26T17:57:46.6613948Z",
+  "Updated": "2026-09-26T17:57:46.6613948Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Delete Files",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "QSkSt0n2V0m7diQy3IpbJw",
+  "Reference": "4gRL-e8hY02xpVmw5KpMtQ/QSkSt0n2V0m7diQy3IpbJw",
+  "ParentRef": "4gRL-e8hY02xpVmw5KpMtQ/sEMX8_bRRUu6aK10sxU11w",
+  "Created": "2026-09-26T17:59:46.5042286Z",
+  "Updated": "2026-09-26T17:59:46.5042286Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
